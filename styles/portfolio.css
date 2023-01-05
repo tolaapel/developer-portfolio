@@ -92,5 +92,20 @@ main{
     
 }
 .about-info-container{
-    display: f;
+    display: flex;
+    justify-content: space-around;
+}
+.about.info-title{
+    font-size: 20px;
+    color: #757575;
+}
+.info-description{
+    font-weight: 700;
+    font-size: 20px;
+    color: #474747;
+}
+/* what i do styles */
+.what-i-do{
+    margin-top: 130px;
+    
 }
